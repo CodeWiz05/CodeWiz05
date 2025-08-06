@@ -1,9 +1,9 @@
 # Hey, I am Samaan Numair Soharwardi! I am
-# 💻 Into Android App Dev (because I love a real challenge) & Web Dev (because I’m solid at it).
-# ⚙️ Currently building Disaster Aggregator, my proudest project so far — real-world problems, real impact.
-# 🤖 Actively diving into AI/ML — not just hype for me, but the future I want to shape.
-# 🧠 Fascinated by psychology, math, history, and how stories (and systems) shape people.
-# ✍️ Love writing, storytelling, and figuring out what makes people tick.
+ 💻 Into Android App Dev (because I love a real challenge) & Web Dev (because I’m solid at it).
+ ⚙️ Currently building Disaster Aggregator, my proudest project so far — real-world problems, real impact.
+ 🤖 Actively diving into AI/ML — not just hype for me, but the future I want to shape.
+ 🧠 Fascinated by psychology, math, history, and how stories (and systems) shape people.
+ ✍️ Love writing, storytelling, and figuring out what makes people tick.
 
 
 ## 🛠️ Skills & Tools
