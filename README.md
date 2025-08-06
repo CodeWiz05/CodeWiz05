@@ -7,4 +7,4 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWiz05&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWiz05&layout=compact)
-## 📫 Connect with Me- ✉️ Email: samaan.numair@gmail.com- 🔗 LinkedIn: [Renuka Profile](https://linkedin.com/in/samaannumair)
+## 📫 Connect with Me- ✉️ Email: samaan.numair@gmail.com- 🔗 LinkedIn: [My Profile](https://linkedin.com/in/samaannumair)
