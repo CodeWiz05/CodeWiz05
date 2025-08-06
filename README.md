@@ -1,4 +1,11 @@
-# 👋 Hi there, I'm Samaan!- 💻 I’m passionate about Full Stack Development & Cybersecurity- 🌱 Currently learning: Spring Boot, MongoDB, and GitHub Actions- 💡 Fun Fact: I once debugged a 50-line error just by adding a semicolon 😂
+# Hey, I am Samaan Numair Soharwardi! I am
+# 💻 Into Android App Dev (because I love a real challenge) & Web Dev (because I’m solid at it).
+# ⚙️ Currently building Disaster Aggregator, my proudest project so far — real-world problems, real impact.
+# 🤖 Actively diving into AI/ML — not just hype for me, but the future I want to shape.
+# 🧠 Fascinated by psychology, math, history, and how stories (and systems) shape people.
+# ✍️ Love writing, storytelling, and figuring out what makes people tick.
+
+
 ## 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=Python&logoColor=blue&labelColor=%2300008B)&nbsp;&nbsp;&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-%23FFE88F?style=for-the-badge&logo=JavaScript&labelColor=%23F5F527)&nbsp;&nbsp;&nbsp;&nbsp;
