@@ -1,6 +1,6 @@
 # Hi there 👋
-#I am Samaan Numair Soharwardi :))
-#I am: 
+I am Samaan Numair Soharwardi :)) <br>
+I am: 
 
 - 🔭 I’m currently working on Android Dev and App Dev
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
