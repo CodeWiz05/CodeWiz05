@@ -7,7 +7,7 @@ I am:
 - 👯 I’m looking to collaborate on Real-World projects
 - 🤔 I’m looking for help with resources to learn on
 - 💬 Ask me about life advices, nerdy talks
-- 📫 How to reach me: samaan.numair@gmail.com (Gmail) or https://www.linkedin.com/in/samaannumair (LinkedIn(
+- 📫 How to reach me: samaan.numair@gmail.com (Gmail) or https://www.linkedin.com/in/samaannumair (LinkedIn)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a quick learner and I have excellent short term memory
 
